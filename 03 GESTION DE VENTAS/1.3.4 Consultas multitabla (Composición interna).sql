@@ -1,3 +1,4 @@
+
 -- 1.3.4 Consultas multitabla (Composición interna)
 -- Resuelva todas las consultas utilizando la sintaxis de SQL1 y SQL2.
 /*Devuelve un listado con el identificador, nombre y los apellidos de todos los clientes que han realizado algún pedido. 
